@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1730451335 source:/home/tchoutzine/Documents/monhm/hm.c
+	<unistd.h>
+	<stddef.h>
+	<stdio.h>
+	"hm.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/wait.h>
+
+1730430382 /home/tchoutzine/Documents/monhm/hm.h
+
+1730446391 source:/home/tchoutzine/Documents/monhm/main.c
+	<stdio.h>
+	<stdlib.h>
+	"hm.h"
+
